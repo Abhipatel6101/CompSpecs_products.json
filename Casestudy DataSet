@@ -1,0 +1,154 @@
+{
+  "brands": [
+    {
+      "name": "Aorus",
+      "products": [
+        {
+          "name": "Aorus UltraGaming PC",
+          "description": "A high-performance gaming desktop with Intel i9 processor, 32GB RAM, and NVIDIA RTX 3080 GPU.",
+          "price": 2399.99
+        },
+        {
+          "name": "Aorus CreatorPro",
+          "description": "A powerful workstation with AMD Ryzen 9, 64GB RAM, and dual 2TB NVMe SSDs for content creators.",
+          "price": 3299.99
+        },
+        {
+          "name": "Aorus MiniPC",
+          "description": "A compact yet powerful mini PC with Intel i7 processor, 16GB RAM, and 1TB SSD.",
+          "price": 1499.99
+        },
+        {
+          "name": "Aorus OfficePro",
+          "description": "An efficient desktop for office use with Intel i5 processor, 8GB RAM, and 512GB SSD.",
+          "price": 899.99
+        },
+        {
+          "name": "Aorus StreamerX",
+          "description": "A dedicated streaming PC with AMD Ryzen 7, 16GB RAM, and NVIDIA RTX 3060 GPU.",
+          "price": 1799.99
+        }
+      ]
+    },
+    {
+      "name": "Samsung",
+      "products": [
+        {
+          "name": "Samsung GalaxyPC",
+          "description": "A sleek and powerful desktop with Intel i7 processor, 16GB RAM, and 1TB NVMe SSD.",
+          "price": 1799.99
+        },
+        {
+          "name": "Samsung Odyssey",
+          "description": "A gaming powerhouse featuring Intel i9 processor, 32GB RAM, and NVIDIA RTX 3070 GPU.",
+          "price": 2599.99
+        },
+        {
+          "name": "Samsung CreatorStudio",
+          "description": "A workstation designed for creators with AMD Ryzen 9, 64GB RAM, and dual 1TB SSDs.",
+          "price": 3199.99
+        },
+        {
+          "name": "Samsung HomeOffice",
+          "description": "An efficient home office desktop with Intel i5 processor, 8GB RAM, and 512GB SSD.",
+          "price": 1099.99
+        },
+        {
+          "name": "Samsung MiniPC Pro",
+          "description": "A compact mini PC with Intel i7 processor, 16GB RAM, and 1TB SSD.",
+          "price": 1399.99
+        }
+      ]
+    },
+    {
+      "name": "Ryzen",
+      "products": [
+        {
+          "name": "Ryzen PowerHouse",
+          "description": "A high-end desktop with AMD Ryzen 9 processor, 32GB RAM, and NVIDIA RTX 3080 GPU.",
+          "price": 2299.99
+        },
+        {
+          "name": "Ryzen GamerXtreme",
+          "description": "A gaming PC with AMD Ryzen 7 processor, 16GB RAM, and NVIDIA RTX 3060 GPU.",
+          "price": 1899.99
+        },
+        {
+          "name": "Ryzen CreatorElite",
+          "description": "A workstation for professionals with AMD Ryzen 9, 64GB RAM, and dual 1TB SSDs.",
+          "price": 2999.99
+        },
+        {
+          "name": "Ryzen OfficePC",
+          "description": "A reliable office PC with AMD Ryzen 5 processor, 8GB RAM, and 512GB SSD.",
+          "price": 899.99
+        },
+        {
+          "name": "Ryzen StreamerPro",
+          "description": "A streaming-focused desktop with AMD Ryzen 7, 16GB RAM, and NVIDIA RTX 3050 GPU.",
+          "price": 1699.99
+        }
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "products": [
+        {
+          "name": "NVIDIA TitanX",
+          "description": "A top-tier gaming desktop with Intel i9 processor, 32GB RAM, and NVIDIA RTX 3090 GPU.",
+          "price": 3499.99
+        },
+        {
+          "name": "NVIDIA WorkStation Pro",
+          "description": "A powerful workstation with AMD Ryzen 9, 64GB RAM, and dual NVIDIA RTX 3080 GPUs.",
+          "price": 4999.99
+        },
+        {
+          "name": "NVIDIA Compact Gamer",
+          "description": "A compact gaming PC with Intel i7 processor, 16GB RAM, and NVIDIA RTX 3060 GPU.",
+          "price": 1999.99
+        },
+        {
+          "name": "NVIDIA OfficeMax",
+          "description": "An efficient office PC with Intel i5 processor, 8GB RAM, and 512GB SSD.",
+          "price": 999.99
+        },
+        {
+          "name": "NVIDIA StreamBox",
+          "description": "A dedicated streaming PC with AMD Ryzen 7, 16GB RAM, and NVIDIA RTX 3070 GPU.",
+          "price": 2099.99
+        }
+      ]
+    },
+    {
+      "name": "ASUS",
+      "products": [
+        {
+          "name": "ASUS ROG Strix",
+          "description": "A high-performance gaming desktop with Intel i9 processor, 32GB RAM, and NVIDIA RTX 3080 GPU.",
+          "price": 2799.99
+        },
+        {
+          "name": "ASUS ProArt Station",
+          "description": "A workstation designed for creators with AMD Ryzen 9, 64GB RAM, and dual 1TB SSDs.",
+          "price": 3399.99
+        },
+        {
+          "name": "ASUS VivoMini",
+          "description": "A compact mini PC with Intel i7 processor, 16GB RAM, and 1TB SSD.",
+          "price": 1599.99
+        },
+        {
+          "name": "ASUS ZenPC",
+          "description": "An efficient office desktop with Intel i5 processor, 8GB RAM, and 512GB SSD.",
+          "price": 999.99
+        },
+        {
+          "name": "ASUS StreamPro",
+          "description": "A streaming-focused desktop with AMD Ryzen 7, 16GB RAM, and NVIDIA RTX 3060 GPU.",
+          "price": 1799.99
+        }
+      ]
+    }
+  ]
+}
