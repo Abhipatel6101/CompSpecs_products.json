@@ -5,48 +5,48 @@
       "products": [
         {
           "Id": "1",
-          "name": "Aorus FI27Q-P",
-          "description": "27-inch gaming monitor with QHD resolution, 165Hz refresh rate, and G-Sync compatibility.",
-          "price": 699.99,
-          "graphicName": "aorus_fi27q_p.png",
+          "name": "Aorus UltraGaming PC",
+          "description": "A high-performance gaming desktop with Intel i9 processor, 32GB RAM, and NVIDIA RTX 3080 GPU.",
+          "price": 2399.99,
+          "graphicName": "aorus_ultragaming_pc.png",
           "qtyOnHand": 10,
           "qtyOnBackOrder": 2
         },
         {
           "Id": "2",
-          "name": "Aorus CV27Q",
-          "description": "27-inch curved gaming monitor with QHD resolution, 165Hz refresh rate, and FreeSync 2 HDR.",
-          "price": 799.99,
-          "graphicName": "aorus_cv27q.png",
-          "qtyOnHand": 8,
+          "name": "Aorus CreatorPro",
+          "description": "A powerful workstation with AMD Ryzen 9, 64GB RAM, and dual 2TB NVMe SSDs for content creators.",
+          "price": 3299.99,
+          "graphicName": "aorus_creatorpro.png",
+          "qtyOnHand": 5,
           "qtyOnBackOrder": 1
         },
         {
           "Id": "3",
-          "name": "Aorus AD27QD",
-          "description": "27-inch gaming monitor with QHD resolution, 144Hz refresh rate, and FreeSync.",
-          "price": 599.99,
-          "graphicName": "aorus_ad27qd.png",
-          "qtyOnHand": 12,
-          "qtyOnBackOrder": 3
-        },
-        {
-          "Id": "4",
-          "name": "Aorus KD25F",
-          "description": "24.5-inch gaming monitor with Full HD resolution, 240Hz refresh rate, and G-Sync.",
-          "price": 499.99,
-          "graphicName": "aorus_kd25f.png",
-          "qtyOnHand": 9,
+          "name": "Aorus MiniPC",
+          "description": "A compact yet powerful mini PC with Intel i7 processor, 16GB RAM, and 1TB SSD.",
+          "price": 1499.99,
+          "graphicName": "aorus_minipc.png",
+          "qtyOnHand": 8,
           "qtyOnBackOrder": 0
         },
         {
+          "Id": "4",
+          "name": "Aorus OfficePro",
+          "description": "An efficient desktop for office use with Intel i5 processor, 8GB RAM, and 512GB SSD.",
+          "price": 899.99,
+          "graphicName": "aorus_officepro.png",
+          "qtyOnHand": 15,
+          "qtyOnBackOrder": 3
+        },
+        {
           "Id": "5",
-          "name": "Aorus FI32U",
-          "description": "32-inch gaming monitor with 4K resolution, 144Hz refresh rate, and HDMI 2.1 support.",
-          "price": 1199.99,
-          "graphicName": "aorus_fi32u.png",
-          "qtyOnHand": 6,
-          "qtyOnBackOrder": 2
+          "name": "Aorus StreamerX",
+          "description": "A dedicated streaming PC with AMD Ryzen 7, 16GB RAM, and NVIDIA RTX 3060 GPU.",
+          "price": 1799.99,
+          "graphicName": "aorus_streamerx.png",
+          "qtyOnHand": 12,
+          "qtyOnBackOrder": 4
         }
       ]
     },
@@ -55,47 +55,147 @@
       "products": [
         {
           "Id": "6",
-          "name": "Samsung Odyssey G9",
-          "description": "49-inch curved gaming monitor with QHD resolution, 240Hz refresh rate, and HDR1000.",
-          "price": 1999.99,
-          "graphicName": "samsung_odyssey_g9.png",
-          "qtyOnHand": 5,
-          "qtyOnBackOrder": 0
+          "name": "Samsung GalaxyPC",
+          "description": "A sleek and powerful desktop with Intel i7 processor, 16GB RAM, and 1TB NVMe SSD.",
+          "price": 1799.99,
+          "graphicName": "samsung_galaxypc.png",
+          "qtyOnHand": 10,
+          "qtyOnBackOrder": 2
         },
         {
           "Id": "7",
-          "name": "Samsung Odyssey G7",
-          "description": "32-inch curved gaming monitor with QHD resolution, 240Hz refresh rate, and HDR600.",
-          "price": 1299.99,
-          "graphicName": "samsung_odyssey_g7.png",
+          "name": "Samsung Odyssey",
+          "description": "A gaming powerhouse featuring Intel i9 processor, 32GB RAM, and NVIDIA RTX 3070 GPU.",
+          "price": 2599.99,
+          "graphicName": "samsung_odyssey.png",
           "qtyOnHand": 7,
           "qtyOnBackOrder": 1
         },
         {
           "Id": "8",
-          "name": "Samsung CRG9",
-          "description": "49-inch super ultrawide gaming monitor with Dual QHD resolution, 120Hz refresh rate, and HDR1000.",
-          "price": 1499.99,
-          "graphicName": "samsung_crg9.png",
-          "qtyOnHand": 9,
-          "qtyOnBackOrder": 2
+          "name": "Samsung CreatorStudio",
+          "description": "A workstation designed for creators with AMD Ryzen 9, 64GB RAM, and dual 1TB SSDs.",
+          "price": 3199.99,
+          "graphicName": "samsung_creatorstudio.png",
+          "qtyOnHand": 6,
+          "qtyOnBackOrder": 3
         },
         {
           "Id": "9",
-          "name": "Samsung UR59C",
-          "description": "32-inch curved 4K monitor with UHD resolution, 60Hz refresh rate, and HDR support.",
-          "price": 599.99,
-          "graphicName": "samsung_ur59c.png",
-          "qtyOnHand": 11,
+          "name": "Samsung HomeOffice",
+          "description": "An efficient home office desktop with Intel i5 processor, 8GB RAM, and 512GB SSD.",
+          "price": 1099.99,
+          "graphicName": "samsung_homeoffice.png",
+          "qtyOnHand": 9,
           "qtyOnBackOrder": 0
         },
         {
           "Id": "10",
-          "name": "Samsung Odyssey LC27G55TQWNXZA",
-          "description": "27-inch curved gaming monitor with Full HD resolution, 144Hz refresh rate, and G-Sync compatibility.",
-          "price": 349.99,
-          "graphicName": "samsung_lc27g55tqwnxza.png",
+          "name": "Samsung MiniPC Pro",
+          "description": "A compact mini PC with Intel i7 processor, 16GB RAM, and 1TB SSD.",
+          "price": 1399.99,
+          "graphicName": "samsung_minipcpro.png",
+          "qtyOnHand": 11,
+          "qtyOnBackOrder": 1
+        }
+      ]
+    },
+    {
+      "name": "Ryzen",
+      "products": [
+        {
+          "Id": "11",
+          "name": "Ryzen PowerHouse",
+          "description": "A high-end desktop with AMD Ryzen 9 processor, 32GB RAM, and NVIDIA RTX 3080 GPU.",
+          "price": 2299.99,
+          "graphicName": "ryzen_powerhouse.png",
           "qtyOnHand": 8,
+          "qtyOnBackOrder": 2
+        },
+        {
+          "Id": "12",
+          "name": "Ryzen GamerXtreme",
+          "description": "A gaming PC with AMD Ryzen 7 processor, 16GB RAM, and NVIDIA RTX 3060 GPU.",
+          "price": 1899.99,
+          "graphicName": "ryzen_gamerxtreme.png",
+          "qtyOnHand": 10,
+          "qtyOnBackOrder": 1
+        },
+        {
+          "Id": "13",
+          "name": "Ryzen CreatorElite",
+          "description": "A workstation for professionals with AMD Ryzen 9, 64GB RAM, and dual 1TB SSDs.",
+          "price": 2999.99,
+          "graphicName": "ryzen_creatorelite.png",
+          "qtyOnHand": 6,
+          "qtyOnBackOrder": 4
+        },
+        {
+          "Id": "14",
+          "name": "Ryzen OfficePC",
+          "description": "A reliable office PC with AMD Ryzen 5 processor, 8GB RAM, and 512GB SSD.",
+          "price": 899.99,
+          "graphicName": "ryzen_officepc.png",
+          "qtyOnHand": 15,
+          "qtyOnBackOrder": 3
+        },
+        {
+          "Id": "15",
+          "name": "Ryzen StreamerPro",
+          "description": "A streaming-focused desktop with AMD Ryzen 7, 16GB RAM, and NVIDIA RTX 3050 GPU.",
+          "price": 1699.99,
+          "graphicName": "ryzen_streamerpro.png",
+          "qtyOnHand": 9,
+          "qtyOnBackOrder": 1
+        }
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "products": [
+        {
+          "Id": "16",
+          "name": "NVIDIA TitanX",
+          "description": "A top-tier gaming desktop with Intel i9 processor, 32GB RAM, and NVIDIA RTX 3090 GPU.",
+          "price": 3499.99,
+          "graphicName": "nvidia_titanx.png",
+          "qtyOnHand": 5,
+          "qtyOnBackOrder": 3
+        },
+        {
+          "Id": "17",
+          "name": "NVIDIA WorkStation Pro",
+          "description": "A powerful workstation with AMD Ryzen 9, 64GB RAM, and dual NVIDIA RTX 3080 GPUs.",
+          "price": 4999.99,
+          "graphicName": "nvidia_workstationpro.png",
+          "qtyOnHand": 4,
+          "qtyOnBackOrder": 1
+        },
+        {
+          "Id": "18",
+          "name": "NVIDIA Compact Gamer",
+          "description": "A compact gaming PC with Intel i7 processor, 16GB RAM, and NVIDIA RTX 3060 GPU.",
+          "price": 1999.99,
+          "graphicName": "nvidia_compactgamer.png",
+          "qtyOnHand": 7,
+          "qtyOnBackOrder": 2
+        },
+        {
+          "Id": "19",
+          "name": "NVIDIA OfficeMax",
+          "description": "An efficient office PC with Intel i5 processor, 8GB RAM, and 512GB SSD.",
+          "price": 999.99,
+          "graphicName": "nvidia_officemax.png",
+          "qtyOnHand": 12,
+          "qtyOnBackOrder": 0
+        },
+        {
+          "Id": "20",
+          "name": "NVIDIA StreamBox",
+          "description": "A dedicated streaming PC with AMD Ryzen 7, 16GB RAM, and NVIDIA RTX 3070 GPU.",
+          "price": 2099.99,
+          "graphicName": "nvidia_streambox.png",
+          "qtyOnHand": 9,
           "qtyOnBackOrder": 1
         }
       ]
@@ -104,47 +204,65 @@
       "name": "ASUS",
       "products": [
         {
-          "Id": "11",
-          "name": "ASUS ROG Swift PG279Q",
-          "description": "27-inch gaming monitor with QHD resolution, 165Hz refresh rate, and G-Sync.",
-          "price": 799.99,
-          "graphicName": "asus_rog_swift_pg279q.png",
-          "qtyOnHand": 12,
+          "Id": "21",
+          "name": "ASUS ROG Strix",
+          "description": "A high-performance gaming desktop with Intel i9 processor, 32GB RAM, and NVIDIA RTX 3080 GPU.",
+          "price": 2799.99,
+          "graphicName": "asus_rogstrix.png",
+          "qtyOnHand": 10,
           "qtyOnBackOrder": 2
         },
         {
-          "Id": "12",
-          "name": "ASUS TUF Gaming VG27AQ",
-          "description": "27-inch gaming monitor with QHD resolution, 165Hz refresh rate, and FreeSync.",
-          "price": 499.99,
-          "graphicName": "asus_tuf_gaming_vg27aq.png",
-          "qtyOnHand": 15,
-          "qtyOnBackOrder": 3
-        },
-        {
-          "Id": "13",
-          "name": "ASUS ROG Swift PG35VQ",
-          "description": "35-inch ultrawide gaming monitor with QHD resolution, 200Hz refresh rate, and G-Sync Ultimate.",
-          "price": 2499.99,
-          "graphicName": "asus_rog_swift_pg35vq.png",
-          "qtyOnHand": 10,
+          "Id": "22",
+          "name": "ASUS ProArt Station",
+          "description": "A workstation designed for creators with AMD Ryzen 9, 64GB RAM, and dual 1TB SSDs.",
+          "price": 3399.99,
+          "graphicName": "asus_proartstation.png",
+          "qtyOnHand": 8,
           "qtyOnBackOrder": 1
         },
         {
-          "Id": "14",
-          "name": "ASUS ProArt PA32UCX",
-          "description": "32-inch professional monitor with 4K HDR, 1000 nits brightness, and Mini LED backlighting.",
-          "price": 3999.99,
-          "graphicName": "asus_proart_pa32ucx.png",
-          "qtyOnHand": 6,
-          "qtyOnBackOrder": 4
+          "Id": "23",
+          "name": "ASUS VivoMini",
+          "description": "A compact mini PC with Intel i7 processor, 16GB RAM, and 1TB SSD.",
+          "price": 1599.99,
+          "graphicName": "asus_vivomini.png",
+          "qtyOnHand": 11,
+          "qtyOnBackOrder": 0
         },
         {
-          "Id": "15",
-          "name": "ASUS ZenScreen MB16AC",
-          "description": "15.6-inch portable monitor with Full HD resolution and USB Type-C connectivity.",
-          "price": 299.99,
-          "graphicName": "asus_zenscreen_mb16ac.png",
+          "Id": "24",
+          "name": "ASUS ZenPC",
+          "description": "An efficient office desktop with Intel i5 processor, 8GB RAM, and 512GB SSD.",
+          "price": 999.99,
+          "graphicName": "asus_zenpc.png",
+          "qtyOnHand": 13,
+          "qtyOnBackOrder": 3
+        },
+        {
+          "Id": "25",
+          "name": "ASUS StreamPro",
+          "description": "A streaming-focused desktop with AMD Ryzen 7, 16GB RAM, and NVIDIA RTX 3060 GPU.",
+          "price": 1799.99,
+          "graphicName": "asus_streampro.png",
+          "qtyOnHand": 7,
+          "qtyOnBackOrder": 1
+        },
+        {
+          "Id": "26",
+          "name": "ASUS ROG Zephyrus",
+          "description": "An ultra-thin gaming laptop with AMD Ryzen 9, 32GB RAM, and NVIDIA RTX 3080 GPU.",
+          "price": 3499.99,
+          "graphicName": "asus_rogzephyrus.png",
+          "qtyOnHand": 6,
+          "qtyOnBackOrder": 2
+        },
+        {
+          "Id": "27",
+          "name": "ASUS MiniTower",
+          "description": "A compact tower PC with Intel i7 processor, 16GB RAM, and 2TB HDD.",
+          "price": 1299.99,
+          "graphicName": "asus_minitower.png",
           "qtyOnHand": 9,
           "qtyOnBackOrder": 0
         }
